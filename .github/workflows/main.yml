@@ -19,9 +19,13 @@ jobs:
           template: classic
           base: header, metadata
           config_animations: yes
+          config_timezone: Europe/Berlin
+          config_display: large
           optimize: no
           repositories_forks: yes
           use_prebuilt_image: yes
+          retries: 3
+          retries_delay: 300
           
           # plugins
           ## languages
