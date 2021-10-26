@@ -29,11 +29,11 @@ jobs:
           
           # plugins
           ## languages
-          plugin_languages: yes
-          plugin_languages_details: percentage
+          #plugin_languages: yes
+          #plugin_languages_details: percentage
           
-          #plugin_introduction: no
-          #plugin_introduction_title: no
+          plugin_introduction: yes
+          plugin_introduction_title: no
           
           ## achievements
           plugin_achievements: yes
