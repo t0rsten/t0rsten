@@ -22,7 +22,7 @@ jobs:
           config_timezone: Europe/Berlin
           config_display: large
           optimize: no
-          repositories_forks: yes
+          repositories_forks: no
           use_prebuilt_image: yes
           retries: 3
           retries_delay: 300
