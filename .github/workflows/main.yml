@@ -17,7 +17,7 @@ jobs:
           
           user: t0rsten
           template: classic
-          base: header
+          base: ""
           config_animations: yes
           config_timezone: Europe/Berlin
           config_display: large
@@ -33,7 +33,7 @@ jobs:
           #plugin_languages_details: percentage
           
           plugin_introduction: yes
-          plugin_introduction_title: no
+          plugin_introduction_title: yes
           
           ## achievements
           plugin_achievements: yes
