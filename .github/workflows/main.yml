@@ -17,20 +17,26 @@ jobs:
           
           user: t0rsten
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header
           config_animations: yes
           optimize: no
           repositories_forks: yes
           use_prebuilt_image: yes
           
           # plugins
+          ## languages
           plugin_languages: yes
           plugin_languages_details: percentage
           plugin_introduction: no
           plugin_introduction_title: no
+          
+          ## achievements
           plugin_achievements: yes
           plugin_achievements_secrets: yes
-          plugin_achievements_threshold: x
+          plugin_achievements_threshold: C
+          plugin_achievements_display: compact
+          
+          ## isocalendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
