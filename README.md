@@ -11,7 +11,7 @@
 ![Github](https://img.shields.io/static/v1?logo=github&label=&message=Github&color=black&logoColor=white&style=flat-square)
 ![azure](https://img.shields.io/static/v1?logo=microsoftazure&label=&message=MSAzure&color=blue&logoColor=white&style=flat-square)
 ![windows](https://img.shields.io/static/v1?logo=windows&label=&message=Windows&color=blue&logoColor=white&style=flat-square)
-![windows terminal](https://img.shields.io/static/v1?logo=windowsterminal&label=&message=Windows Terminal&color=black&logoColor=white&style=flat-square)
+![windows terminal](https://img.shields.io/static/v1?logo=windowsterminal&label=&message=Terminal&color=black&logoColor=white&style=flat-square)
 
 ----
 ![image](github-metrics.svg)
