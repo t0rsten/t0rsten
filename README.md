@@ -18,10 +18,3 @@
 <img src="https://img.shields.io/static/v1?logo=windowsterminal&label=&message=Windows%20Terminal&color=black&logoColor=white&style=flat-square" />
 
 </p>
-
-----
-
-<h3 align="center"> ⚡ Github Stats </h3>
-<p align="center">
-<img src="github-metrics.svg" />
-</p>
