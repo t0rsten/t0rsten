@@ -5,6 +5,7 @@
 </p>
 
 ----
+<p align="center">
 
 ![powershell](https://img.shields.io/static/v1?logo=powershell&label=&message=Powershell&color=blue&logoColor=white&style=flat-square)
 ![VSCode](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=VS%20Code&color=blue&style=flat-square)
@@ -14,5 +15,6 @@
 ![windows](https://img.shields.io/static/v1?logo=windows&label=&message=Windows&color=blue&logoColor=white&style=flat-square)
 ![windows terminal](https://img.shields.io/static/v1?logo=windowsterminal&label=&message=Terminal&color=black&logoColor=white&style=flat-square)
 
+</p>
 ----
 ![image](github-metrics.svg)
