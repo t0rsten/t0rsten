@@ -4,7 +4,6 @@
   </samp>
 </p>
 
-----
 <h2 align="center"> 💻 Technologies &amp; Tools</h2>
 <p align="center">
 
@@ -18,4 +17,7 @@
 
 </p>
 
-----
+<h2 align="center"> ⚡ Github Stats </h2>
+<p align="center">
+<img src="github-metrics.svg" />
+</p>
