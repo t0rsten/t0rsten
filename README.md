@@ -16,5 +16,6 @@
 <img src="https://img.shields.io/static/v1?logo=microsoftazure&label=&message=Azure&color=black&logoColor=white&style=flat-square" />
 <img src="https://img.shields.io/static/v1?logo=windows&label=&message=Windows&color=black&logoColor=white&style=flat-square" />
 <img src="https://img.shields.io/static/v1?logo=windowsterminal&label=&message=Windows%20Terminal&color=black&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/static/v1?logo=markdown&label=&message=Markdown&color=black&logoColor=white&style=flat-square" />
 
 </p>
