@@ -14,4 +14,5 @@
 <img src="https://img.shields.io/static/v1?logo=github&label=&message=Github&color=black&logoColor=white&style=flat-square" />
 <img src="https://img.shields.io/static/v1?logo=windowsterminal&label=&message=Windows%20Terminal&color=black&logoColor=white&style=flat-square" />
 <img src="https://img.shields.io/static/v1?logo=markdown&label=&message=Markdown&color=black&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/static/v1?logo=logseq&label=&message=Logseq&color=black&logoColor=white&style=flat-square" />
 </p>
