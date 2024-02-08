@@ -16,5 +16,5 @@
   <img src="https://img.shields.io/static/v1?logo=logseq&label=&message=Logseq&color=black&logoColor=white&style=flat-square" />
 </p>
 <p align="right">
-  <img src="/img/connect.gif"
+  <a href="https://hmpg.net"><img src="/img/connect.gif" /></a>
 </p>
