@@ -1,6 +1,6 @@
 <h3 align="center"> 👨‍💻 Whoami</h3>
 <p align="center">
-  <samp>Powershell enthusiast, part-time pilgrim and hiking addicted.</samp>
+  <samp>PowerShell enthusiast, part-time pilgrim and hiking addicted.</samp>
 </p>
 
 ----
