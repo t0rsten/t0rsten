@@ -21,7 +21,7 @@
 
 ----
 
-<picture>
+<picture align="center">
   <source
     media="(prefers-color-scheme: dark)"
     srcset="images/breakout-dark.svg"
