@@ -18,3 +18,17 @@
 <p align="right">
   <a href="https://hmpg.net"><img src="/img/connect.gif" /></a>
 </p>
+
+----
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
