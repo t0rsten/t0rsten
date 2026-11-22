@@ -12,8 +12,10 @@
   <img src="https://img.shields.io/static/v1?logo=git&label=&message=Git&color=black&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/static/v1?logo=github&label=&message=Github&color=black&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/static/v1?logo=githubcopilot&label=&message=Github%20Copilot&color=black&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/static/v1?logo=windowsterminal&label=&message=Windows%20Terminal&color=black&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/static/v1?logo=gitea&label=&message=Gitea&color=black&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/static/v1?logo=ollama&label=&message=Ollama&color=black&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/static/v1?logo=markdown&label=&message=Markdown&color=black&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/static/v1?logo=docker&label=&message=Docker&color=black&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/static/v1?logo=obsidian&label=&message=Obsidian&color=black&logoColor=white&style=flat-square" />
 </p>
 <p align="right">
@@ -21,7 +23,7 @@
 </p>
 
 ----
-
+gnometerminal
 <picture align="center">
   <source
     media="(prefers-color-scheme: dark)"
