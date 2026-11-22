@@ -7,8 +7,6 @@
 
 <h3 align="center"><img src="/img/computer.gif" /></br>Tools</h3>
 <p align="center">
-  <img src="https://img.shields.io/static/v1?logo=powershell&label=&message=PowerShell&color=black&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=VS%20Code&color=black&style=flat-square" />
   <img src="https://img.shields.io/static/v1?logo=git&label=&message=Git&color=black&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/static/v1?logo=github&label=&message=Github&color=black&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/static/v1?logo=githubcopilot&label=&message=Github%20Copilot&color=black&logoColor=white&style=flat-square" />
