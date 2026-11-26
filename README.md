@@ -21,7 +21,7 @@
 </p>
 
 ----
-gnometerminal
+
 <picture align="center">
   <source
     media="(prefers-color-scheme: dark)"
